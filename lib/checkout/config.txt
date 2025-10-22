@@ -1,1 +1,1 @@
-feature_flag_new_checkout=false
+feature_flag_new_checkout=true
