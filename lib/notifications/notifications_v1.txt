@@ -1,1 +1,2 @@
 Notifications v1 (behind feature flag)
+fix: prevent notification spam
