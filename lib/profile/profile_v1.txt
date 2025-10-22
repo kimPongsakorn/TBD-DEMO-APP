@@ -1,1 +1,2 @@
 UserProfile v1 (behind feature flag)
+fix: prevent null display name crash
