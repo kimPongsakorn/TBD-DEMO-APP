@@ -1,1 +1,2 @@
 Analytics v1 (behind feature flag)
+fix: resolve analytics data privacy issue
